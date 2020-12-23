@@ -1,20 +1,11 @@
 ### Hi there 👋
-<a href="https://dev.to/varaprasadh">
-  <img height='100px' widht='100px' src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="consious_coder's DEV Profile" height="30" width="30">
-</a>
 
+- 🔭 I’m currently working on undefined
+- 🌱 I’m currently learning undefined
+- 👯 I’m looking to collaborate on undefined
+- 🤔 I’m looking for help with undefined
+- 💬 Ask me about undefined
+- 📫 How to reach me: null
+- 😄 Pronouns: null
+- ⚡ Fun fact: undefined is not defined
 
-<!--
-**varaprasadh/varaprasadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
