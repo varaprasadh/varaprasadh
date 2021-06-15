@@ -1,3 +1,5 @@
+![banner image](https://github.com/varaprasadh/varaprasadh/blob/e63a88d37b61ee7de90e2e60c6c025df37b6eb67/git_banner.jpg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on undefined
