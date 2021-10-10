@@ -1,4 +1,3 @@
-![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-866ea61b-537a-48e8-ac41-7809242e546f-v1.png?transparent=1&palette=1&width=246)
 
 - I'm Varaprasadh! people calls me Vara, <br/>
 - just like declaring a javascript variable i.e. `var a;`
