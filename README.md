@@ -1,6 +1,4 @@
 
-- I'm Varaprasadh! people calls me Vara, <br/>
-- just like declaring a javascript variable i.e. `var a;`
 - visit [varaprasadh.dev](https://varaprasadh.dev) to know more. 
 ----
 ![](https://imgs.xkcd.com/comics/earth_temperature_timeline_2x.png)
