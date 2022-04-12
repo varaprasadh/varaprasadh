@@ -1,2 +1,2 @@
 #v2
-echo Hi
+echo "Hi, i hacked your laptop, send money"
